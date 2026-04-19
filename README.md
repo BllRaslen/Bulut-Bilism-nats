@@ -1,4 +1,3 @@
-Here is the Markdown version of your LaTeX document, converted into a clean and readable `README.md` file.
 
 # NATS: Cloud Native Mesajlaşma Sisteminin Teknik Değerlendirmesi
 
